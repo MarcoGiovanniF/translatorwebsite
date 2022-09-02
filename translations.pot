@@ -1,0 +1,112 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-07-26 17:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: templates/_aboutme.html:2
+msgid "hi"
+msgstr ""
+
+#: templates/_aboutme.html:5
+msgid "valueproposition"
+msgstr ""
+
+#: templates/_aboutme.html:6
+msgid "pricing"
+msgstr ""
+
+#: templates/_experience.html:4
+msgid "oxforddegree"
+msgstr ""
+
+#: templates/_experience.html:5
+msgid "oxforduni"
+msgstr ""
+
+#: templates/_experience.html:8
+msgid "ucldegree"
+msgstr ""
+
+#: templates/_experience.html:9
+msgid "ucluni"
+msgstr ""
+
+#: templates/_experience.html:12
+msgid "manchesterdegree"
+msgstr ""
+
+#: templates/_experience.html:13 templates/_experience.html:17
+msgid "manchesteruni"
+msgstr ""
+
+#: templates/_experience.html:16
+msgid "manchestermasters"
+msgstr ""
+
+#: templates/_footer.html:7
+msgid "emailme"
+msgstr ""
+
+#: templates/_footer.html:8
+msgid "phoneme"
+msgstr ""
+
+#: templates/_footer.html:9
+msgid "visitmyproz"
+msgstr ""
+
+#: templates/_header.html:2
+msgid "tagline"
+msgstr ""
+
+#: templates/_languageselection.html:16
+#, python-format
+msgid "translationlanguages %(sourcelanguage)s %(targetlanguage)s"
+msgstr ""
+
+#: templates/_specialisations.html:2
+msgid "specialisations"
+msgstr ""
+
+#: templates/_specialisations.html:4
+msgid "legaltranslation"
+msgstr ""
+
+#: templates/_specialisations.html:5
+msgid "aboutlegaltranslation"
+msgstr ""
+
+#: templates/_specialisations.html:8
+msgid "medicaltranslation"
+msgstr ""
+
+#: templates/_specialisations.html:9
+msgid "aboutmedicaltranslation"
+msgstr ""
+
+#: templates/_specialisations.html:12
+msgid "literarytranslation"
+msgstr ""
+
+#: templates/_specialisations.html:13
+msgid "aboutliterarytranslation"
+msgstr ""
+
+#: templates/main.html:8
+msgid "sitename"
+msgstr ""
+

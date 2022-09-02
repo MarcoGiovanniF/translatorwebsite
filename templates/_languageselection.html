@@ -1,0 +1,17 @@
+<section id="languageselection">
+    {% set sourcelanguage %}
+        <select>
+            {% for lang in languages %}
+                <option>{{ _(lang) }}</option>
+            {% endfor %}
+        </select>
+    {% endset %}
+    {% set targetlanguage %}
+        <select>
+            {% for lang in languages %}
+                <option>{{ _(lang) }}</option>
+            {% endfor %}
+        </select>
+    {% endset %}
+    <h3>{{ _('translationlanguages %(sourcelanguage)s %(targetlanguage)s', sourcelanguage=sourcelanguage, targetlanguage=targetlanguage) }}</h3>
+</section>
